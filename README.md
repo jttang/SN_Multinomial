@@ -1,1 +1,1 @@
-# SN_Multinomial
+# Pivotal inference for high-dimensional multinomial data
